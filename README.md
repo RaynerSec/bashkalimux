@@ -19,4 +19,4 @@ This is a bash script by which you can install Kali Nethunter (Kali Linux) in yo
 </a>
 
 ## Stargazers Over Time
-[![Stargazers over time](https://starchart.cc/RaynerSec/bashkalimux.svg?variant=adaptive)](https://starchart.cc/RaynerSec/bashkalimux)
+[![Stargazers Over Time](https://starchart.cc/RaynerSec/bashkalimux.svg?variant=adaptive)](https://starchart.cc/RaynerSec/bashkalimux)
